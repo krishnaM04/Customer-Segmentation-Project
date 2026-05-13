@@ -83,16 +83,6 @@ Your CSV should include these columns:
 
 You can also include optional columns like `customer_id`, `gender`, `region`, or `total_spend`.
 
-## How to push to GitHub
-
-```bash
-
-
-
-
-git remote add origin https://github.com/your-username/your-repo-name.git
-git push -u origin main
-```
 
 ## Notes
 
